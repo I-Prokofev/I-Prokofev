@@ -5,7 +5,8 @@ Nice to meet you 👋
 My way to data analytics was pretty sudden. After receiving one more english certificate I desired to check my language knowledge 
 by completing the online specilisation Executive Data Science of Johns Hopkins University. As result, I was so fascinated by 
 analytics and business forecasting in my previous job that I decided to change my successful business development manager career 
-to data analyst. And now I do not regret it at all! Big data is a key to solving of any business task.
+to data analyst. I am passionate to solve analytical tasks, discover substantial business trends and identify insights. 
+Big data is a key to solving of any business task.
 
 **My repositories:**
 Project Name |	Description	| 	⭐ Stars
