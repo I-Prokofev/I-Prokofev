@@ -12,7 +12,7 @@ Big data is a key to solving of any business task.
 Project Name |	Description	| 	⭐ Stars
 -----------------|------------|------------------------
 **[Yandex.Practicum](https://github.com/I-Prokofev/Yandex.Practicum_projects)** |	Projects implemented during the training of the profession "Data Analyst" on the Yandex.Practicum platform. | 
-[Analytical projects](https://github.com/I-Prokofev/Analytical_projects) | Various analytical projects |
+**[Analytical projects](https://github.com/I-Prokofev/Analytical_projects)** | Various analytical projects |
 <!---
 I-Prokofev/I-Prokofev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
