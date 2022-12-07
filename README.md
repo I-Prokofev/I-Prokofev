@@ -2,8 +2,8 @@ Nice to meet you 👋
 
 **My name is Igor Prokofev**
 
-My way to data analytics was pretty sudden. After receiving one more english certificate I desired to check my language knowledge 
-by completing the online specilisation Executive Data Science of Johns Hopkins University. As result, I was so fascinated by 
+My way to data analytics was pretty sudden. After receiving one more English certificate I desired to check my language knowledge 
+by completing the online specilization Executive Data Science of Johns Hopkins University. As result, I was so fascinated by 
 analytics and business forecasting in my previous job that I decided to change my successful business development manager career 
 to data analyst. I am passionate to solve analytical tasks, discover substantial business trends and identify insights. 
 The data-driven approach is a key to solving of any nowadays business challenge. Big data is my passion!
